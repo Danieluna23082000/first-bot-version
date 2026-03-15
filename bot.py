@@ -4,7 +4,7 @@ from aiogram import Bot, Dispatcher, F
 from aiogram.types import Message, FSInputFile, InlineKeyboardMarkup, InlineKeyboardButton
 from aiogram.filters import CommandStart
 
-TOKEN = os.getenv("8756436962:AAFtZdtmJG7s31OIWaeU_kkDFIwXfHBrTLg")
+TOKEN = os.getenv("BOT_TOKEN")
 PDF_PATH = "presentation.pdf"
 TG_LINK = "https://t.me/danyaytb"
 
